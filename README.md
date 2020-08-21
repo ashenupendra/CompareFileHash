@@ -1,4 +1,4 @@
-# CompareFileHash
+# Compare File Hash
 Simple Console App for compare file hash (checksum) exists in two directories
 
 How to use
